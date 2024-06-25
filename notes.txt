@@ -1,0 +1,18 @@
+# What is a programming language
+# What are Variables, Printing Strings and Adding Strings
+# Comments
+# Simple math
+# Conditionals (If/Else)
+# Functions
+# What is Pygame
+# Setting up Pygame
+# Colors
+# Background
+
+---------------------------------------------
+
+# Creating Game Objects using Classes
+# Why Classes
+# Movement
+# WASD Movement
+# Collision
